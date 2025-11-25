@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pawan27092003
 - 👀 I’m interested in programming languages..
-- 🌱 I’m currently learning Html,Css,python and javascript...
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning c# and c++
 - 📫 How to reach me ...pkjangra341@gmail.com
 
 <!---
